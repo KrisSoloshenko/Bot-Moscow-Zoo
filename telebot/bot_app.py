@@ -188,7 +188,7 @@ def finish_quiz(chat_id):
     share_markup.add(
         types.InlineKeyboardButton(
             "Поделиться в ВКонтакте",
-            url=f"https://vk.com/share.php?url=https://t.me/ZooTotemBot&title={share_text}"
+            url=f"https://vk.com/share.php?url=https://t.me/totem_animal_bot&title={share_text}"
         )
     )
     bot.send_message(
