@@ -1,4 +1,4 @@
-TOKEN = "7157479698:AAH_RQY0pkRJc6qqtm8ztnhy0iOcXP-ysuY"
+TOKEN = "YOUR_TOKEN"
 
 ANIMALS = {
     1: {"name": "Белая сова", "image": "owl.jpg"},
